@@ -2,8 +2,8 @@
 
 A cross-platform application for viewing Enyo 2 samples from all its various libraries.
 
-For the most recent released version, see the [Enyo JS website](http://enyojs.com/sampler).
-The latest nightly build is also available at <http://nightly.enyojs.com/latest/sampler/debug.html>.
+Enyo 2 has been replaced by EnactJS, and is no longer updated. This archive is kept for development on older devices.
+The final build is also available at <http://www.webosarchive.com/enyo2sampler>.
 
 When cloning this repository, be sure to do so recursively, in order to fetch the correct version of the submodule libraries.
 Use the flag `--recurse-submodules`
