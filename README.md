@@ -4,7 +4,7 @@ A cross-platform application for viewing Enyo 2 (aka EnyoJS) samples from all it
 
 Enyo 2 has been replaced by EnactJS, and is no longer updated. This archive is kept at 2.5.1 for development on older devices.
 
-This build can be viewed at <http://www.webosarchive.com/enyo2sampler>.
+This build can be viewed at <http://sdk.webosarchive.org/enyo2sampler>.
 
 The final build, which did not support legacy webOS, can be viewed at <http://nightly.enyojs.com/enyo-nightly-20180402014451/sampler/dist/>
 
